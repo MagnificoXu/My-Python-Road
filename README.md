@@ -5,3 +5,10 @@
 >  - 在这里记录本人的学习历程、代码知识
 >  - 希望能激励我坚持下去
 >  - 如果有后来者看到希望能帮到你
+
+
+Hello New World
+
+Hello Python
+ 
+Now Let's Go!
